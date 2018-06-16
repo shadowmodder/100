@@ -28,3 +28,16 @@ Two Pointer Algorithm
 22. https://www.lintcode.com/en/problem/3sum/
 23. https://www.lintcode.com/problem/partition-array/
 24. https://www.lintcode.com/problem/kth-largest-element/
+
+BFS & Topological Sort
+25. https://www.lintcode.com/problem/number-of-islands/        // Try 3 solutions: DFS & BFS & Union-Find
+26. https://www.lintcode.com/en/problem/binary-tree-level-order-traversal/
+27. https://www.lintcode.com/problem/course-schedule/
+28. https://www.lintcode.com/problem/course-schedule-ii/
+29. https://www.lintcode.com/problem/knight-shortest-path/
+30. https://www.lintcode.com/problem/sequence-reconstruction/
+31. https://www.lintcode.com/problem/clone-graph/
+32. https://www.lintcode.com/problem/topological-sorting/description
+33. https://www.lintcode.com/en/problem/word-ladder/
+34. https://www.lintcode.com/problem/serialize-and-deserialize-binary-tree/description
+
