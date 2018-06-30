@@ -28,3 +28,57 @@ Two Pointer Algorithm
 22. https://www.lintcode.com/en/problem/3sum/
 23. https://www.lintcode.com/problem/partition-array/
 24. https://www.lintcode.com/problem/kth-largest-element/
+
+BFS & Topological Sort
+25. https://www.lintcode.com/problem/number-of-islands/        // Try 3 solutions: DFS & BFS & Union-Find
+26. https://www.lintcode.com/en/problem/binary-tree-level-order-traversal/
+27. https://www.lintcode.com/problem/course-schedule/
+28. https://www.lintcode.com/problem/course-schedule-ii/
+29. https://www.lintcode.com/problem/knight-shortest-path/
+30. https://www.lintcode.com/problem/sequence-reconstruction/
+31. https://www.lintcode.com/problem/clone-graph/
+32. https://www.lintcode.com/problem/topological-sorting/description
+33. https://www.lintcode.com/en/problem/word-ladder/
+34. https://www.lintcode.com/problem/serialize-and-deserialize-binary-tree/description
+
+Binary Tree & Tree-based DFS
+35. https://www.lintcode.com/problem/closest-binary-search-tree-value/
+36. https://www.lintcode.com/problem/minimum-subtree/                       // Minimum Subtree / Ladder Only
+37. https://www.lintcode.com/en/problem/binary-tree-paths/
+38. https://www.lintcode.com/en/problem/flatten-binary-tree-to-linked-list/
+39. https://www.lintcode.com/en/problem/balanced-binary-tree/
+40. https://www.lintcode.com/en/problem/kth-smallest-element-in-a-bst/
+41. https://www.lintcode.com/en/problem/lowest-common-ancestor-iii/        // Lowest Common Ancestor III / Ladder Only
+42. https://www.lintcode.com/problem/validate-binary-search-tree/description
+43. https://www.lintcode.com/problem/closest-binary-search-tree-value-ii/description
+44. https://www.lintcode.com/problem/binary-search-tree-iterator/
+45. https://www.lintcode.com/en/problem/lowest-common-ancestor-ii/
+46. https://www.lintcode.com/problem/lowest-common-ancestor-of-a-binary-tree/
+
+Combination-based DFS
+47. https://www.lintcode.com/problem/split-string/
+48. https://www.lintcode.com/problem/find-the-missing-number-ii/description
+49. https://www.lintcode.com/problem/palindrome-partitioning/description
+50. https://www.lintcode.com/problem/combination-sum-ii/description
+51. https://www.lintcode.com/problem/combinations/description
+52. https://www.lintcode.com/problem/combination-sum/description
+53. https://www.lintcode.com/problem/subsets-ii/description
+54. https://www.lintcode.com/problem/subsets/description
+55. https://www.lintcode.com/problem/remove-invalid-parentheses/description
+56. https://www.lintcode.com/problem/word-break-ii/
+
+Permutation-based & Graph-based DFS
+57. https://www.lintcode.com/problem/next-closest-time/description
+58. https://www.lintcode.com/problem/letter-combinations-of-a-phone-number/description
+59. https://www.lintcode.com/problem/string-permutation-ii/description     // string permutation ii / Ladder Only
+60. https://www.lintcode.com/problem/n-queens-ii/description
+61. https://www.lintcode.com/problem/n-queens/description
+62. https://www.lintcode.com/problem/permutations-ii/
+63. https://www.lintcode.com/problem/permutations/description
+64. https://www.lintcode.com/en/problem/word-pattern-ii/
+65. https://www.lintcode.com/problem/word-search-ii/
+66. https://www.lintcode.com/problem/word-ladder-ii/description
+
+
+
+
