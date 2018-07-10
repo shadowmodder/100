@@ -98,10 +98,23 @@ Data Structure - Interval/Array/Matrix/Binary Indexed Tree
 80. https://www.lintcode.com/problem/merge-sorted-array/description
 81. https://www.lintcode.com/problem/maximum-subarray/description
 82. https://www.lintcode.com/en/problem/maximum-submatrix/
-83. https://www.lintcode.com/en/problem/median-of-k-sorted-arrays/
+83. https://www.lintcode.com/en/problem/median-of-k-sorted-arrays/                 // Ladder Only
 84. https://www.lintcode.com/problem/range-sum-query-mutable/description
 85. https://www.lintcode.com/problem/sparse-matrix-multiplication/description
-86. https://www.lintcode.com/problem/merge-k-sorted-interval-lists/description
-87. https://www.lintcode.com/problem/merge-k-sorted-arrays/description
+86. https://www.lintcode.com/problem/merge-k-sorted-interval-lists/description     // Ladder Only
+87. https://www.lintcode.com/problem/merge-k-sorted-arrays/description             // Ladder Only
 88. https://www.lintcode.com/problem/median-of-two-sorted-arrays/description
 
+Dynamic Programming
+89. https://www.lintcode.com/en/problem/unique-paths-ii/
+90. https://www.lintcode.com/problem/unique-paths/
+91. https://www.lintcode.com/problem/climbing-stairs/description
+92. https://www.lintcode.com/problem/minimum-path-sum/description
+93. https://www.lintcode.com/problem/triangle/description
+94. https://www.lintcode.com/problem/largest-divisible-subset/description
+95. https://www.lintcode.com/problem/knight-shortest-path/description
+96. https://www.lintcode.com/problem/perfect-squares/description
+97. https://www.lintcode.com/problem/jump-game/
+98. https://www.lintcode.com/problem/longest-increasing-subsequence/description
+99. https://www.lintcode.com/en/problem/climbing-stairs-ii/
+100. https://www.lintcode.com/problem/knight-shortest-path-ii/
