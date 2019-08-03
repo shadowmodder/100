@@ -1,0 +1,4 @@
+/*
+Given an array reprents price of stock of each day.
+buy and sell twice to get max profit.
+*/

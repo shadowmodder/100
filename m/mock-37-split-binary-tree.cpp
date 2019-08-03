@@ -1,0 +1,3 @@
+/*
+Check whether a binary tree can be split into two parts with same sum.
+*/
